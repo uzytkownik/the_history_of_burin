@@ -1,0 +1,11 @@
+border_size=1
+usage=map
+
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo          , Chw         , Wo          , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Chw         , Wo          , Wo          , Wo          , Wo          , Chr         , Chr         , _off^_usr   
+_off^_usr   , _off^_usr   , Mm          , _off^_usr   , Wo          , Wo          , Wo          , Wo          , Chr         , Chr         , Chr         , Xu          
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm          , Wo          , Wo          , Wo          , Wo          , _off^_usr   , Chr         , _off^_usr   
+_off^_usr   , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , Wo          , Wo          , Wo          , Wo          , Wo          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo          , Chw         , Wo          , Wo          , Chw         , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
