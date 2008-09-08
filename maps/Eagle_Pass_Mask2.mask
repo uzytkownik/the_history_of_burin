@@ -1,9 +1,0 @@
-border_size=0
-usage=mask
-
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo^Bw|      , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo^Bw|      , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo^Bw|      , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wo^Bw|      , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
-_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
